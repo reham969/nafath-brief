@@ -28,5 +28,6 @@ Oman's Personal Data Protection Law, issued under Royal Decree 6/2022, establish
 
 Source: https://qanoon.om/p/2022/rd2022006/
 ## Misconception in My Track
-
+A common misconception about cybersecurity is that installing antivirus software is enough to protect a computer or network from all cyber threats. In reality, antivirus software is only one layer of protection. Cybersecurity also requires strong authentication, regular software updates, secure network configurations, employee awareness, and continuous monitoring. Attackers may use phishing, social engineering, or stolen credentials to bypass traditional security tools. For government digital identity systems, a defense-in-depth approach is essential because multiple security measures work together to reduce risks and protect sensitive personal information
 ## Open Question
+How can government digital identity services balance strong phishing-resistant authentication with accessibility for users who have limited technical knowledge or do not own modern smartphones?
